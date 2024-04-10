@@ -35,6 +35,21 @@ When an object gaze is detected, it records the time spent looking at that objec
 The script displays the gaze position in a virtual screen created using Pygame.
 It provides real-time visualization of the eye tracking process and object gaze detection.
 
+
+https://github.com/supriya1212-hub/Autism-/assets/85392844/b494cd23-f14b-412f-a6be-794c2abf37ba
+
+
+
+
+
+
+https://github.com/supriya1212-hub/Autism-/assets/85392844/d7db8048-0752-405a-b5a9-0ed94cf8927c
+
+
+
+
+
+
 Notes:
 
 Adjust the video file name and file path according to your setup.
