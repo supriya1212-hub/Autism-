@@ -1,7 +1,7 @@
 Therapist and Child Engagement Analysis
 
-Eye Tracking ,Object Gaze Detection & emotion detection
-This Python script performs eye tracking and object gaze detection using computer vision techniques. It captures video frames from a source (video file), detects eyes, tracks the gaze direction, and calculates the position of the gaze on a virtual screen. Additionally, it records the time spent looking at each object.
+Eye Tracking, Object & emotion detection
+this Python script performs eye tracking and object gaze detection using computer vision techniques. It captures video frames from a source (video file), detects eyes, tracks the gaze direction, and calculates the position of the gaze on a virtual screen. Additionally, it records the time spent looking at each object.
 
 Requirements:
 
@@ -16,8 +16,8 @@ pytorch
 
 Usage:
 
-Ensure you have the necessary Python libraries installed.
-Place the video file you want to analyze in the same directory as the script.
+Ensured by having the necessary Python libraries installed.
+Placed the video file that we want to analyze in the same directory as the script.
 Replace 'child gesture.mp4' with the name of your input video file in the script.
 Run the script.
 While the script is running, it will display the video feed with eye detection and gaze tracking overlaid.
